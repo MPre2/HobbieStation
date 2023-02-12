@@ -56,4 +56,4 @@ Utilizamos CRUD mediante Javascript y JSON.
   - [Empezar a programar con Javascript](https://www.aluracursos.com/blog/empezar-a-programar-es-con-javascript)
 ---
 ## 😊Insignia Finalizacion Sprint
-![Badege_AluraLatam](./)
+![Badege_AluraLatam](./assets/cms_files_10224_1671211724Prancheta_10.png)
