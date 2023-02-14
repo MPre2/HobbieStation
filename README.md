@@ -1,6 +1,5 @@
 # E-Commerce Site 🛒
 ---
----
 
 Segundo Sprint del Challenge Front End. <br>
 Vamos a trabajar en la construcción de un sitio de comercio electronico. <br>
